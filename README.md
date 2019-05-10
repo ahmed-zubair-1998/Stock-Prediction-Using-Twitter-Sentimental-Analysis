@@ -2,7 +2,7 @@
 
 ### Dataset:
 
-The data set we used is StockNet dataset courtesy of Yumo Xu which can be obtained from [Github](1.	https://github.com/yumoxu/stocknet-dataset). The dataset includes two-year price movements from 01/01/2014 to 01/01/2016 of 88 stocks are selected to target, coming from all the 8 stocks in the Conglomerates sector and the top 10 stocks in capital size in each of the other 8 sectors. The full list of 88 stocks and their companies selected from 9 sectors is available in StockTable. It also contains tweet data of all these companies for two-year period separated by each day.
+The data set we used is StockNet dataset courtesy of Yumo Xu which can be obtained from [Github](https://github.com/yumoxu/stocknet-dataset). The dataset includes two-year price movements from 01/01/2014 to 01/01/2016 of 88 stocks are selected to target, coming from all the 8 stocks in the Conglomerates sector and the top 10 stocks in capital size in each of the other 8 sectors. The full list of 88 stocks and their companies selected from 9 sectors is available in StockTable. It also contains tweet data of all these companies for two-year period separated by each day.
 
 #### Preprocessing:
 
